@@ -35,3 +35,10 @@ Os recomiendo instalar Genymotion (sólo tenéis que registraros y bajar la vers
 * Para probar que todo funciona, cread una nueva aplicación Android (Start a new Android Studio project), API 15, Blank Activity y lanzadla sobre vuestro móvil (o Genymotion, leed más abajo), con menú, Run, Run 'app' (cuando termine el proceso de indexing).
   
 Os recomiendo instalar Genymotion, pero antes tenéis que instalar VirtualBox. Una vez instalado, os recomiendo bajaros la imagen de un Nexus 5 con Lollipop (5.0). No hace falta instalar el plugin para Android Studio.
+
+## Problemas habituales
+
+* INSTALL_FAILED_OLDER_SDK:
+ Compilando para una versión concreta (imagino que 21-22) y tu móvil tiene una versión inferior.
+ 
+ Puedes cambiarlo en el fichero .gradle (despegando el icono de gradle scripts), dónde pone compileSdkVersion. Bájalo a 4.0 (14) y probablemente te pida que bajes el SDK de esa versión. 
