@@ -1,6 +1,7 @@
 # Android-en-Burgos
 Material para el Curso de Android de Betabeers Burgos/AgileCyL
-Diapositivas del curso: kcy.me/23e0b
+
+* [Diapositivas del curso](kcy.me/23e0b)
 
 ## Requisitos Curso De Android en Burgos para Betabeers/CEEI
 
