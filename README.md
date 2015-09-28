@@ -1,7 +1,5 @@
 
-bile Workshop - Building native mobile apps with Liferay
-
-Description in how to set up the **Android environment** for the Mobile Workshop, *Building native mobile apps with Liferay*.
+Description in how to set up an **Android environment**.
 
 ## Requirements
 
